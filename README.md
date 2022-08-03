@@ -3,7 +3,7 @@
   <a href="https://bomnamul.tistory.com/category/WIL"> 
      <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-&logo=Vimeo&logoColor=white&link=https://velog.io/@edie_ko/"/></a>&nbsp
   <a href="https://bomnamul.tistory.com/category/TIL"><img src="https://img.shields.io/badge/TIL%20Blog-FFBF3B?style=flat-&logo=Bloglovin&logoColor=white&link=https://positiveko-til.vercel.app/"/></a>&nbsp
-  <a href="mailto:edie.hyungsup42134@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=edie.spark1er@gmail.com"/></a><br>
+  <a href="mailto:hyungsup42134@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=edie.spark1er@gmail.com"/></a><br>
 </p>
 
 ## Tech 🛠
