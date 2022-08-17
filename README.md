@@ -1,4 +1,8 @@
-# Hi! I'm hyeongseop Lee! 
+# Hi! I'm Hyeongseop Lee! 
+
+- 고집은 없지만 강단은 있어요
+- 어려운걸 싫어하지만 목적이 있다면 어떤 상황도 즐길 줄 알아요
+- 팀으로 일하는걸 좋아해요
 
 ## Links 👀 
 <p>
