@@ -1,3 +1,5 @@
+# Hi! I'm hyeongseop Lee! 
+
 ## Links 👀 
 <p>
   <a href="https://bomnamul.tistory.com/category/WIL"> 
